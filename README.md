@@ -28,7 +28,7 @@ IA Game Lobby
 
 ----------
 
-Corporate Concerns:
+### Corporate Concerns:
 
 1) Fork the repo to the client's corporate server:
 
